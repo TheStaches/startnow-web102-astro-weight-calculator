@@ -1,0 +1,1 @@
+Astro weight calculator where you input your weight and will calculate what you would weigh on each planet.
